@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Daniel</h1>
-<h3 align="center">A passionate frontend developer from Mexico also with knowledge in backend</h3>
+<h3 align="center">A passionate frontend developer from Mexico also with knowledge in FrontEnd y BackEnd</h3>
 
 - 🔭 I’m currently working on **in project design**
 
